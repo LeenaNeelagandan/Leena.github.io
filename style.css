@@ -1,0 +1,11 @@
+.main {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+nav {
+  display: flex;
+}
+.logo {
+  height: 45px;
+}
